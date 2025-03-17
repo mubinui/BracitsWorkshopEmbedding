@@ -1,0 +1,7 @@
+spacy
+gensim
+matplotlib
+scikit-learn
+numpy
+torch
+sentence-transformers
